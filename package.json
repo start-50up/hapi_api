@@ -1,0 +1,27 @@
+{
+  "name": "hapi_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/start-50up/hapi_api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongo",
+    "token-based-authentication",
+    "jwt",
+    "mongoose"
+  ],
+  "author": "Weera N.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/start-50up/hapi_api/issues"
+  },
+  "homepage": "https://github.com/start-50up/hapi_api#readme"
+}
